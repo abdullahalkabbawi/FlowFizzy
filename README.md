@@ -1,5 +1,13 @@
 # AquaFlow Water Dispenser
 
+> **Note on this copy.** This is a copy of a two-person university team project, originally at
+> [mushyalpha/FlowFizzy](https://github.com/mushyalpha/FlowFizzy). It is kept here by Abdullah
+> Alkabbawi as a record of his own contribution and is **not solo work**. The full commit history is
+> preserved, and the Division of Labor section below sets out who did what: Abdullah Alkabbawi on
+> hardware integration, the hardware drivers and state machine, and the 3D printing and CAD design;
+> Bonolo Masima on hardware integration, architecture and testing skeleton, documentation and project
+> setup. The original is MIT licensed, Copyright (c) 2026 SmartFlow, and the LICENSE file is unchanged.
+
 ![AquaFlow Logo](images/fizzyflow_logo.png)
 
 AquaFlow is a smart, fully-automated touchless water dispenser built on the Raspberry Pi using C++. It utilizes intelligent hardware monitoring to safely dispense exact volumes of water using proximity detection.
